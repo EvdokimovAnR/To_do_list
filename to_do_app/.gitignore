@@ -1,0 +1,4 @@
+.env
+info.log
+Dockerfile
+../docker-compose.yml
